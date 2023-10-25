@@ -1,3 +1,11 @@
+.navbar-brand{
+    margin-left: 40px;
+}
+
+.nav-login{
+    width: 150px;
+    border-radius: 15px;
+}
 .Container2 {
     background-color: #B5B7BB;
 }
@@ -25,4 +33,25 @@
 .Container3 h2{
     color: white;
     margin-bottom: 40px;
+}
+
+#Description{
+    margin-top: 40px;
+    height: 200px;
+}
+
+.form-submit{
+    background-color: green;
+    outline: green;
+}
+
+.form-submit:hover{
+    background-color: green;
+    outline: green;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
 }
