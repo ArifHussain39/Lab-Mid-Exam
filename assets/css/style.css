@@ -1,0 +1,28 @@
+.Container2 {
+    background-color: #B5B7BB;
+}
+
+.Container2 h2 {
+    padding: 20px;
+    margin-left: 10%;
+}
+
+.Container2 .row {
+    margin-left: 10%;
+}
+
+.Container2 .btn {
+   width: 150px;
+}
+
+.Container3{
+    background-color: black;
+}
+.Container3 .results{
+    color: white;
+}
+
+.Container3 h2{
+    color: white;
+    margin-bottom: 40px;
+}
